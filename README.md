@@ -17,13 +17,13 @@
 Spring Boot TDD 학습을 위한 프로젝트입니다.
 
 ## Overview
-이용할 수 있는 기능은 없습니다.
+이용할 수 있는 기능은 없습니다. TDD를 이용한 단순한 Picking 프로젝트입니다.
 
 ## Getting Started
 Spring Boot 기본 구성으로 진행했습니다.
 
 ### TDD 
-TDD는 작동하는 깔끔한 코드를 만드는 것이 목표다.
+TDD는 작동하는 깔끔한 코드를 만드는 것이 목표입니다.
 
 1. 자동화된 테스트가 실패한 경우만 새로운 코드를 작성
 2. 중복 제거
@@ -48,7 +48,7 @@ TDD는 작동하는 깔끔한 코드를 만드는 것이 목표다.
 ### Integration test
 - 단위 테스트 이후 모듈들의 상호작용이 제대로 이루어지는지 검증하는 테스트
 
-### Process
+### TDD Process
 1. 테스트 추가
 2. 모든 테스트를 실행하고 새로 추가한 것이 실패하는지 확인
 3. 코드를 조금 변경
@@ -60,7 +60,11 @@ TDD는 작동하는 깔끔한 코드를 만드는 것이 목표다.
 - Dev & Stage
 - Prod
 
+### Project Process
+Github 프로젝트를 이용하여 진행했습니다.
+
 ### Project Structures
+
 
 ### Installing
 1.
